@@ -36,6 +36,7 @@ Ensure the `input/` folder contains the PDF files and `persona_input.json`.
 ## 📁 Folder Structure
 
 - `main.py`: Main entrypoint for execution
+- `download.py`:To download the model
 - `extractor.py`: Handles PDF reading and sectioning
 - `ranker.py`: Handles embeddings and scoring
 - `utils.py`: Helper functions
