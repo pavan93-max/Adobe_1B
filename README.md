@@ -39,4 +39,3 @@ Ensure the `input/` folder contains the PDF files and `persona_input.json`.
 - `extractor.py`: Handles PDF reading and sectioning
 - `ranker.py`: Handles embeddings and scoring
 - `utils.py`: Helper functions
-- `approach_explanation.md`: Approach and logic behind the solution
